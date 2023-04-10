@@ -2,6 +2,20 @@ h1 {
     color: red;
 }
 
+li {
+    list-style:none;
+}
+
 .html-list{
     list-style-type: square;
+}
+
+.css-list{
+    color: blue;
+}
+
+.center{
+    width: 100%;
+    margin: auto;
+    text-align: center;
 }
