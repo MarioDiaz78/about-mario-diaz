@@ -7,15 +7,18 @@ li {
 }
 
 .html-list{
-    list-style-type: square;
-}
-
-.css-list{
-    color: blue;
+    list-style-type: number;
 }
 
 .center{
     width: 100%;
     margin: auto;
     text-align: center;
+}
+
+.center-list{
+    width: 15%;
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
 }
