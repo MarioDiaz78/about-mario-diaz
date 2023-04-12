@@ -1,9 +1,13 @@
 h1 {
     color: red;
 }
+h3 {
+    color: green;
+}
 
 li {
     list-style:none;
+    color: darkblue;
 }
 
 .html-list{
@@ -21,4 +25,8 @@ li {
     list-style-position: inside;
     text-align: left;
     display: inline-block;
+}
+
+.picture {
+    transform: scaleY(-1);
 }
