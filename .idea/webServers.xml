@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="41550815-ea1b-41d4-b811-57e17a69bdfa" name="about-mario-diaz" url="https://ddc-web-student.cnm.edu/~rbalchii/about-mario-diaz">
+        <fileTransfer rootFolder="/home/rbalchii/public_html/about-mario-diaz" accessType="SFTP" host="ddc-web-student.cnm.edu" port="22" sshConfigId="e599eac3-12e8-4289-a2db-95650f399887" sshConfig="ddc-web-student.cnm.edu" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
